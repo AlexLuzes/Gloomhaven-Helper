@@ -1,0 +1,2 @@
+# Gloomhaven-Helper
+Gloomhaven Helper
